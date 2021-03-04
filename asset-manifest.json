@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.js": "/my-wallet/static/js/main.e22f4fe0.chunk.js",
+    "main.js.map": "/my-wallet/static/js/main.e22f4fe0.chunk.js.map",
+    "runtime-main.js": "/my-wallet/static/js/runtime-main.c1cef066.js",
+    "runtime-main.js.map": "/my-wallet/static/js/runtime-main.c1cef066.js.map",
+    "static/js/2.0bb0ab2d.chunk.js": "/my-wallet/static/js/2.0bb0ab2d.chunk.js",
+    "static/js/2.0bb0ab2d.chunk.js.map": "/my-wallet/static/js/2.0bb0ab2d.chunk.js.map",
+    "index.html": "/my-wallet/index.html",
+    "static/js/2.0bb0ab2d.chunk.js.LICENSE.txt": "/my-wallet/static/js/2.0bb0ab2d.chunk.js.LICENSE.txt",
+    "static/media/arrow-down.7681f6e6.svg": "/my-wallet/static/media/arrow-down.7681f6e6.svg",
+    "static/media/arrow-up.e0895fae.svg": "/my-wallet/static/media/arrow-up.e0895fae.svg",
+    "static/media/crying.3239042d.svg": "/my-wallet/static/media/crying.3239042d.svg",
+    "static/media/dollar.d4a9bb64.svg": "/my-wallet/static/media/dollar.d4a9bb64.svg",
+    "static/media/grinning.5afb8a68.svg": "/my-wallet/static/media/grinning.5afb8a68.svg",
+    "static/media/logo.3fc9096d.svg": "/my-wallet/static/media/logo.3fc9096d.svg",
+    "static/media/muted.7aeb4e3b.svg": "/my-wallet/static/media/muted.7aeb4e3b.svg",
+    "static/media/smiling.8fe6536c.svg": "/my-wallet/static/media/smiling.8fe6536c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c1cef066.js",
+    "static/js/2.0bb0ab2d.chunk.js",
+    "static/js/main.e22f4fe0.chunk.js"
+  ]
+}
