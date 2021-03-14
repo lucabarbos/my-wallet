@@ -17,8 +17,15 @@ Dashboard em React desenvolvido em TypeScript e styled-components, visando boas 
 
 ---
 
-### :arrow_down: Como baixar e iniciar o projeto
+### 🌍 Acesse o projeto
 
+- **Website:** https://lucabarbos.github.io/my-wallet/
+- **Login:** test@login.com
+- **Password:** 123
+
+---
+
+### :arrow_down: Como baixar e iniciar o projeto
 
 ```bash
     # Clonar o repositório
