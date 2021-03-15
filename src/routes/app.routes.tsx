@@ -8,8 +8,8 @@ import List from '../pages/List';
 const AppRoutes: React.FC = () => (
     <Layout>
         <Switch>
-            <Route path="/my-wallet/list/:type" component={List} />
-            <Route path="/my-wallet/" component={Dashboard} />
+            <Route path="/list/:type" component={List} />
+            <Route path="/" component={Dashboard} />
         </Switch>
     </Layout>
 );
